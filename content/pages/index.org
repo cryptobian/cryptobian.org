@@ -1,0 +1,13 @@
+#+OPTIONS: toc:nil
+#+TITLE: About Cryptobian
+#+DATE: 2019-2-21
+#+AUTHOR: qinfengling
+#+PROPERTY: LANGUAGE en
+#+PROPERTY: SAVE_AS index.html
+
+Cryptobian is a Debian distribution for crypto currency.
+
+You don't need to install or compile the tools, utilities and fullnode by yourself, just use this distribution.
+
+Everything you need in crypto currency is out of box.
+
